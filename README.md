@@ -20,8 +20,9 @@ Whether you're developing a new project or optimizing an existing one, the ESP32
 ### INSTALLATION
     * git clone https://github.com/0xbitx/DEDSEC_ESP32_TOOLKIT.git
     * cd DEDSEC_ESP32_TOOLKIT
+    * sudo pip3 install progressbar2
     * chmod +x dedsec_esp32_toolkit
-    * ./dedsec_esp32_toolkit
+    * sudo ./dedsec_esp32_toolkit
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
