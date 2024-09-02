@@ -7,8 +7,7 @@
 <h4 align="center"> Boost Your ESP32 Projects with Ease!.</h4>
 
 ### DESCRIPTION
-This tool is designed to streamline and accelerate your ESP32 development process. With simple commands, you can convert your Arduino .ino files into either .hex or .bin formats and then flash them directly to your ESP32 device.
-Key Features:
+DEDSEC_ESP32_TOOLKIT is a command-line interface (CLI) tool designed to streamline the development process for ESP32 projects. This utility provides a set of functionalities for compiling and flashing firmware, ensuring an efficient workflow for embedded system developers.
 
 * Convert .ino to .hex: Easily convert your Arduino .ino files into .hex format, optimized for flashing.
 * Convert .ino to .bin: Generate .bin files from your Arduino projects, ready to be uploaded to your ESP32.
